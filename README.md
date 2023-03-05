@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<br>
+### 아직 하찮고 귀엽지만 천천히 발전하는 중입니다 !
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ming0o&layout=compact)](https://github.com/ming0o/github-readme-stats)
 <br>
 <br>
