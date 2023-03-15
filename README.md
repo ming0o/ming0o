@@ -37,6 +37,6 @@ const ming0o = {
   <a href="https://github.com/ming0o" target="_blank"><img src="https://img.shields.io/badge/Github-232F3E?style=flat-square&logo=Github&logoColor=white"/></a>
   <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ming0o&layout=compact)](https://github.com/ming0o/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ming0o)](https://github.com/ming0o/github-readme-stats)
 <br>
 
