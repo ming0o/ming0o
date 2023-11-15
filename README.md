@@ -13,7 +13,7 @@
   ### ⚒️ Tech Stack ⚒️
 ```js
 const ming0o = {
-    code: ["Typescript", "HTML", "CSS", "Python", "C", "Kotlin"],
+    code: ["Typescript", "HTML", "CSS", "Python", "C", "JavaScript"],
     technologies: {
         frontEnd: {
             framework: ["React"],
