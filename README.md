@@ -13,18 +13,19 @@
   ### ⚒️ Tech Stack ⚒️
 ```js
 const ming0o = {
-    code: ["Typescript", "HTML", "CSS", "Python", "C", "JavaScript"],
+    code: ["HTML", "CSS", "JavaScript", "Python", "C"],
     technologies: {
         frontEnd: {
-            framework: ["React"],
-            state: ["React-Query"],
+            framework: ["React", "Svelte", "Vue"],
+            state: ["React-Query", "Redux", "Recoil"],
+            styling: ["styled-components", "Tailwind CSS", "SCSS"],
         },
         backEnd: {
             db: ["MySQL"],
         },
         etc: ["Git", "System Programming(Linux)"],
     },
-    intersting: ["Clean Code", "Refactoring", "Design Pattern"],
+    interesting: ["Clean Code", "Refactoring", "Design Pattern"],
 };
 ```
 <br>
