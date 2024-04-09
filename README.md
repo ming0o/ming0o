@@ -13,7 +13,7 @@
   ### ⚒️ Tech Stack ⚒️
 ```js
 const ming0o = {
-    code: ["HTML", "CSS", "JavaScript", "Python", "C"],
+    code: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "C"],
     technologies: {
         frontEnd: {
             framework: ["React", "Svelte", "Vue"],
