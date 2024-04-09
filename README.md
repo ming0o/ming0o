@@ -38,5 +38,5 @@ const ming0o = {
   <a href="https://github.com/ming0o" target="_blank"><img src="https://img.shields.io/badge/Github-232F3E?style=flat-square&logo=Github&logoColor=white"/></a>
   <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ming0o)](https://github.com/ming0o/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ming0o=anuraghazra&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ming0o)](https://solved.ac/ming0o/)
