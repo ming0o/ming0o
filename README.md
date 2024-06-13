@@ -39,17 +39,6 @@
 
 <br>
 
- <h3> 📧 Contact 📧 </h3>
- <p>
-  <a href="https://velog.io/@ming0o" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a href="https://blog.naver.com/bb_olive" target="_blank"><img src="https://img.shields.io/badge/Blog-339933?style=flat-square&logo=Naver&logoColor=white"/></a>
-  <a href="isha3992@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="bb_olive@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-339933?style=flat-square&logo=Naver&logoColor=white"/></a>
-  <a href="https://github.com/ming0o" target="_blank"><img src="https://img.shields.io/badge/Github-232F3E?style=flat-square&logo=Github&logoColor=white"/></a>
-  <br>
- </p>
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ming0o&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ming0o)](https://solved.ac/ming0o/)
 
