@@ -19,8 +19,8 @@
 </p>
 <br>
 
-<br><br>
 ![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=ming0o&hide=contribs,issues&theme=omni)
 <br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ming0o)](https://solved.ac/ming0o/)
 
