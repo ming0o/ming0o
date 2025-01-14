@@ -18,12 +18,6 @@
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>
 </p>
 <br>
-<h3> 📔 Other Languages</h3>
-<p>
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-</p>
 
 <br><br>
 ![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=ming0o&hide=contribs,issues&theme=omni)
