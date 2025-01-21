@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/tailwind.css-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>
 </p>
+
+---
+
 <br>
 
 ![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=ming0o&hide=contribs,issues&theme=omni)
