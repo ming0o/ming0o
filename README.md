@@ -15,7 +15,7 @@
 <p>
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/tailwind.css-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Storybook-pink?style=flat-square&logo=Storybook&logoColor=white"/></a>
 </p>
 
 ---
