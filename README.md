@@ -3,7 +3,7 @@
 <h3> ⚙️ Tech Stack </h3>
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/React Native-1A8CD8?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/></a>
 </p>
