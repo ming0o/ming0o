@@ -23,7 +23,13 @@
 <br>
 
 ![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=ming0o&hide=contribs,issues&theme=omni)
-<br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ming0o)](https://solved.ac/ming0o/)
-
+<p>
+  <a href="https://solved.ac/ming0o/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ming0o" alt="Solved.ac Profile" style="display:inline-block; vertical-align:middle; margin-right:10px;" />
+  </a>
+  &nbsp;  &nbsp; &nbsp;
+  <a href="https://raw.githubusercontent.com/ming0o/programmers-badge/master/static/result.svg">
+    <img src="https://raw.githubusercontent.com/ming0o/programmers-badge/master/static/result.svg" alt="Programmers Badge" style="display:inline-block; vertical-align:middle;" />
+  </a>
+</p>
