@@ -18,10 +18,3 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
 
----
-
-<br>
-<p>
-  <img src="https://raw.githubusercontent.com/ming0o/programmers-badge/master/static/result.svg" alt="Programmers Badge"/>
-</p>
-
