@@ -22,8 +22,6 @@
 
 <br>
 <p>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ming0o" alt="Solved.ac Profile"/>
-  &nbsp; &nbsp;
   <img src="https://raw.githubusercontent.com/ming0o/programmers-badge/master/static/result.svg" alt="Programmers Badge"/>
 </p>
 
